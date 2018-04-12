@@ -1,0 +1,33 @@
+.custom{
+    margin-left: 15%;
+    margin-right: 15%;
+    margin-top: 50px;
+    width: 70%;
+}
+
+.w3-modal-content{
+    width: 40%;
+    margin-top: 10%;
+}
+
+@media (max-width: 600px) {
+    .custom{
+        margin-left: 0%;
+        margin-right:0%;
+        width: 100%;
+        margin-top: 50px;
+    }
+
+    h3, h5{
+        font-size: 150%;
+    }
+
+    h2{
+        font-family: Oswald;
+        font-size: 150%;
+    }
+}
+
+h2{
+    font-family: Oswald;
+}
